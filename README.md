@@ -15,7 +15,7 @@ Dan kita jgn lupa mendownload pygame pada link dibawah ini
 https://www.pygame.org/news
 
 Dan akan muncul gambar seperti ini
-![foto{(https://github.com/Muhammd-Nur-Fahmi/uaspy-1/blob/master/2.PNG)
+![foto](https://github.com/Muhammd-Nur-Fahmi/uaspy-1/blob/master/2.PNG)
 
 Dan akan muncul konfigurasi virtual
 
